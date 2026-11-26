@@ -10,7 +10,6 @@ target/
 Thumbs.db
 *.exe
 *.pdb
-*.lock
 
 # 本地环境配置
 .env
