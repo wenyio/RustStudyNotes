@@ -1,0 +1,15 @@
+# Cargo 构建产物
+target/
+
+# 编辑器和系统临时文件
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 本地环境配置
+.env
+.env.*
+!.env.example
